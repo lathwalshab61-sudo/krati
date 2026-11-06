@@ -1,0 +1,25 @@
+[
+  {
+    "id": "CR-2026-0941",
+    "title": "Cold Spring Harbor Marina Homicide",
+    "category": "Homicide",
+    "priority": "Critical",
+    "status": "Under Lab Analysis",
+    "incidentDate": "2026-10-24T21:45",
+    "firstResponseDate": "2026-10-24T22:18",
+    "location": {
+      "address": "Pier 14, Slip C-28, Cold Spring Harbor",
+      "type": "Outdoor Marine / Vessel",
+      "gps": "40.8712° N, 73.4549° W",
+      "weather": "Foggy, light mist, 11°C, 88% humidity"
+    },
+    "leadExaminer": "Dr. Elena Vance",
+    "assignedOfficerId": "OFF-8402",
+    "investigatingAgency": "Metropolitan Major Crimes Bureau",
+    "synopsis": "Victim discovered aboard 42-foot pleasure craft with blunt force trauma to temporal bone. Primary crime scene secured.",
+    "evidence": [],
+    "chainOfCustody": [],
+    "dnaProfiles": [],
+    "fieldNotes": []
+  }
+]
